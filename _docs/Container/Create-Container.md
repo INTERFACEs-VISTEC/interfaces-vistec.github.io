@@ -4,11 +4,7 @@ category: Container
 order: 2
 ---
 
-# Create Container
-
-## Create container <a href="#create-container" id="create-container"></a>
-
-### Before you begin <a href="#before-you-begin" id="before-you-begin"></a>
+### <a href="#before-you-begin" id="before-you-begin"> Before you begin</a>
 
 ### Get Started <a href="#get-started" id="get-started"></a>
 
